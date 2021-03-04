@@ -1,7 +1,7 @@
 # Projects
 Here are some projects I did for my master's degree (from most to least recent).
 ## Second year
-- NeuralNetwork : a jupyter notebook where I make a fully-connected jupyter notebook from scratch.
+- NeuralNetwork : a jupyter notebook where I make a fully-connected neural network from scratch.
 - C++ : a selection a exercises from the C++ course.
 - DeepLearning/fashion-mnist : exploring the fashion-mnist dataset and the influence of hyper-parameters (Tensorflow)
 
