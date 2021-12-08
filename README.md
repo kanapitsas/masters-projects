@@ -1,5 +1,9 @@
 # Projects
 Here are some projects I did for my master's degree (from most to least recent).
+
+## Internship
+My internship at Airbus validated my degree. I used a VAE to automate anomaly detection in Aerodynamic Data. The [report](airbus_internship.pdf) contains all the details.
+
 ## Second year
 - NeuralNetwork : a jupyter notebook where I make a fully-connected neural network from scratch.
 - C++ : a selection a exercises from the C++ course.
